@@ -1,20 +1,18 @@
 [
   {
     "id": 1,
-    "nombre": "Jodry Jeremias",
-    "apellido": "Rodriguez Veintimilla",
-    "email": "jeremiasr08@gmail.com",
+    "nombre": "Jordy",
+    "apellido": "Rodriguez",
+    "email": "jordy08@gmail.com",
     "telefono": "0980499642",
-    "ciudad": "Naranjito",
-    "direccion": "Nelly Villacre"
+    "ciudad": "Naranjito"
   },
   {
     "id": 2,
-    "nombre": "Anahi Ashley",
-    "apellido": "Balladares Meneses",
-    "email": "anahib10@gmail.com",
-    "telefono": "0945787825",
-    "ciudad": "Guayaquil",
-    "direccion": "Vicente Coello"
+    "nombre": "Anahi",
+    "apellido": "Balladares",
+    "email": "anahi07@gmail.com",
+    "telefono": "0956841256",
+    "ciudad": "Naranjito"
   }
 ]
